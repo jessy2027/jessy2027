@@ -18,15 +18,6 @@
 
 ---
 
-## 🚀 Statistiques GitHub
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jessy2027&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessy2027&layout=compact&theme=react" alt="Top Langages" />
-</p>
-
----
-
-<p align="center">
-  <em>Merci de votre visite ! 🚀</em>
+  <em>Merci de votre visite ! 🚀</em>
 </p>
