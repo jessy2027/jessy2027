@@ -24,12 +24,12 @@
 ║ Statut       : En alternance  ▸  en jeu            ║
 ║                                                    ║
 ╟── ATTRIBUTS ───────────────────────────────────────╢
-║ Dev web       ████████░░   80/100  TS/React        ║
-║ Mobile        ███████░░░   75/100  RN/Expo         ║
-║ Back-end      ███████░░░   70/100  Node/Firebase   ║
-║ Impression 3D ████████░░   85/100  PETG/PLA        ║
-║ Systèmes      ████░░░░░░   40/100  Linux/Proxmox   ║
-║ Réseau        ██░░░░░░░░   20/100  Packet Tracer   ║
+║ Dev web       ████████░░  Confirmé  TS/React       ║
+║ Mobile        ███████░░░  Confirmé  RN/Expo        ║
+║ Back-end      ███████░░░  Confirmé  Node/Firebase  ║
+║ Impression 3D ████████░░  Expert    PETG/PLA       ║
+║ Systèmes      ████░░░░░░  Apprenti  Linux/Proxmox  ║
+║ Réseau        ██░░░░░░░░  Novice    Packet Tracer  ║
 ║                                                    ║
 ╟── XP ──────────────────────────────────────────────╢
 ║ Bac Pro CIEL   ████████████████████  AVEC MENTION  ║
