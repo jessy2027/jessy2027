@@ -105,14 +105,9 @@
 ## 📊 Tableau des scores
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profil GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jessy2027&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=7C3AED&text_color=C9D1D9&locale=fr" alt="Stats GitHub" />
+  <img height="165" src="https://streak-stats.demolab.com?user=jessy2027&hide_border=true&background=0D1117&ring=00E5A0&fire=F59E0B&currStreakLabel=00E5A0&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&locale=fr" alt="Série de contributions" />
 </p>
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats GitHub" />
-  <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Langages" />
-</p>
-
-<sub><i>Cartes générées chaque nuit par une GitHub Action et stockées dans ce dépôt — pas de service externe qui tombe.</i></sub>
 
 ---
 
