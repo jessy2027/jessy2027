@@ -92,13 +92,13 @@
 
 ## 🏆 Succès débloqués
 
-| | Succès | Description |
-|:-:|---|---|
-| 🥉 | **Prologue terminé** | Bac Pro CIEL obtenu |
-| 🥈 | **Multi-classe** | Dev qui part en BTS SIO SISR pour couvrir son point faible |
-| 💼 | **Recruté** | Alternance décrochée |
-| 🥇 | **Marchand itinérant** | Lancement de la boutique 3DMake28 |
-| 🔒 | **???** | *Succès caché — prochain à débloquer…* |
+| # | | Succès | Description |
+|:-:|:-:|---|---|
+| 1 | 🛒 | **Marchand itinérant** | Lancement de la boutique 3DMake28 |
+| 2 | 🎓 | **Prologue terminé** | Bac Pro CIEL obtenu **avec mention** |
+| 3 | 💼 | **Recruté** | Alternance décrochée |
+| 4 | ⚔️ | **Multi-classe** | Dev qui part en BTS SIO SISR pour couvrir son point faible |
+| 5 | 🔒 | **???** | *Succès caché — prochain à débloquer…* |
 
 ---
 
