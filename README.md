@@ -48,7 +48,7 @@
 |:-:|---|:-:|
 | 🎓 | **BTS SIO option SISR** — 1re année en alternance, depuis septembre 2026<br><sub>Multi-classe : ajouter l'infra, les réseaux et la sécu à un profil dev</sub> | 🟡 En cours |
 | 🌿 | **[Botaniq](https://botaniqcare.app)** — l'app de soin des plantes<br><sub>Rappels d'arrosage adaptés à la météo · identification par photo · diagnostic IA des maladies</sub><br><sub>React Native · Expo · TypeScript · Firebase — <a href="https://apps.apple.com/fr/app/botaniq-soin-des-plantes-ia/id6759615436">App Store</a> · <a href="https://play.google.com/store/apps/details?id=fr.jessylange.botaniq">Google Play</a></sub> | 🟢 En ligne |
-| ✨ | **[Softly](https://softly-app.com)** — l'app de soin de la peau<br><sub>Analyse photo · bilan en 7 mesures · routine matin & soir qui s'adapte dans le temps</sub><br><sub><a href="https://play.google.com/store/apps/details?id=fr.jelvorstudio.softly">Google Play</a> · iOS bientôt</sub> | 🟢 En ligne |
+| ✨ | **[Softly](https://softly-app.com)** — l'app de soin de la peau<br><sub>Analyse photo · bilan en 7 mesures · routine matin & soir qui s'adapte dans le temps</sub><br><sub><a href="https://apps.apple.com/us/app/softly/id6802324230">App Store</a> · <a href="https://play.google.com/store/apps/details?id=fr.jelvorstudio.softly">Google Play</a></sub> | 🟢 En ligne |
 | 🛰️ | **RMM** — supervision & gestion de parc à distance<br><sub>Le projet où mes deux classes se rencontrent : dev + SISR</sub> | 🔵 En dev |
 | 🖨️ | **3DMake28** — boutique de pièces auto imprimées en 3D<br><sub>Conception, impression PETG/PLA, vente sur Amazon — <a href="mailto:contact@3dmake28.fr">contact@3dmake28.fr</a></sub> | 🟢 Active |
 
