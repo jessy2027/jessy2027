@@ -25,9 +25,9 @@
 ║                                                    ║
 ╟── ATTRIBUTS ───────────────────────────────────────╢
 ║ Dev web       ████████░░  Confirmé  TS/React       ║
-║ Mobile        ███████░░░  Confirmé  RN/Expo        ║
+║ Mobile        ████████░░  Confirmé  RN/Expo        ║
 ║ Back-end      ███████░░░  Confirmé  Node/Firebase  ║
-║ Impression 3D ████████░░  Expert    PETG/PLA       ║
+║ Impression 3D █████████░  Expert    PETG/PLA       ║
 ║ Systèmes      ████░░░░░░  Apprenti  Linux/Proxmox  ║
 ║ Réseau        ██░░░░░░░░  Novice    Packet Tracer  ║
 ║                                                    ║
