@@ -50,7 +50,7 @@
 | 🌿 | **[Botaniq](https://botaniqcare.app)** — l'app de soin des plantes<br><sub>Rappels d'arrosage adaptés à la météo · identification par photo · diagnostic IA des maladies</sub><br><sub>React Native · Expo · TypeScript · Firebase — <a href="https://apps.apple.com/fr/app/botaniq/id6759615436">App Store</a> · <a href="https://play.google.com/store/apps/details?id=fr.jessylange.botaniq">Google Play</a></sub> | 🟢 En ligne |
 | ✨ | **[Softly](https://softly-app.com)** — l'app de soin de la peau<br><sub>Analyse photo · bilan en 7 mesures · routine matin & soir qui s'adapte dans le temps</sub><br><sub><a href="https://play.google.com/store/apps/details?id=fr.jelvorstudio.softly">Google Play</a> · iOS bientôt</sub> | 🟢 En ligne |
 | 🛰️ | **RMM** — supervision & gestion de parc à distance<br><sub>Le projet où mes deux classes se rencontrent : dev + SISR</sub> | 🔵 En dev |
-| 🖨️ | **[3DMake28](https://3dmake28.fr)** — boutique de pièces auto imprimées en 3D<br><sub>Conception, impression PETG/PLA, vente en ligne & Amazon</sub> | 🟢 Active |
+| 🖨️ | **3DMake28** — boutique de pièces auto imprimées en 3D<br><sub>Conception, impression PETG/PLA, vente sur Amazon — <a href="mailto:contact@3dmake28.fr">contact@3dmake28.fr</a></sub> | 🟢 Active |
 
 ---
 
@@ -94,7 +94,7 @@
 
 | # | | Succès | Description |
 |:-:|:-:|---|---|
-| 1 | 🛒 | **Marchand itinérant** | Lancement de la boutique 3DMake28 |
+| 1 | 🛒 | **Marchand itinérant** | Lancement de la boutique 3DMake28<br><sub>🙏 Merci à mon beau-père, qui a accepté de porter la SASU à son nom pendant que j'étais mineur — sans lui, l'aventure n'aurait jamais pu commencer.</sub> |
 | 2 | 🎓 | **Prologue terminé** | Bac Pro CIEL obtenu **avec mention** |
 | 3 | 💼 | **Recruté** | Alternance décrochée |
 | 4 | ⚔️ | **Multi-classe** | Dev qui part en BTS SIO SISR pour couvrir son point faible |
